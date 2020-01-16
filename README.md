@@ -1,4 +1,15 @@
-# testapp
-are you sure that you want to open my project?
+# .readme iorabiadopo
 
-my first app my dude
+Ciao a tutti, questo è un readme *molto* inutile visto che il programma mette dentro **ben** 3 variabili
+
+ 1. v = x
+ 2. s = boh
+ 3. c = o
+~~uso le var~~
+
+> non ci credo
+
+disse boh
+
+    prova
+
